@@ -30,6 +30,3 @@ This app demonstrates basic canvas drawing. To use it, simply run the app on an 
 
 Contributions and suggestions are welcome! Feel free to fork this repository, make changes, and create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
